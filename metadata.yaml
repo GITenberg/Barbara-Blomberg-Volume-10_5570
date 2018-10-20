@@ -1,5 +1,5 @@
 _repo: Barbara-Blomberg-Volume-10_5570
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   translator:
     agent_name: Safford, Mary J.
@@ -34,5 +34,6 @@ subjects:
 - !lcsh 'German fiction -- Translations into English'
 - !lcc 'PT'
 - !lcsh 'Holy Roman Empire -- History -- Charles V, 1519-1556 -- Fiction'
+- GITenberg
 title: Barbara Blomberg — Volume 10
 url: http://www.gutenberg.org/ebooks/5570
